@@ -6,7 +6,7 @@ This is a NodeJs command line application that returns the weather forecast of l
 
 - NodeJs: Download NodeJs using https://nodejs.org/en
 - OpenMeteo API: Make use of the Open-Metero free weather API to get the weather forecast data using https://open-meteo.com/
-- Axios: Install axios library to make HTTP requests using https://www.npmjs.com/package/
+- Axios: Install axios library to make HTTP requests using https://www.npmjs.com/package/axios
 
 ## Install & Run CLI
 
