@@ -1,0 +1,25 @@
+{
+  "name": "weather-forecast-cli-application",
+  "version": "1.0.0",
+  "description": "A NodeJS command line application that returns weather forecast information of locations.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "weather-forecast": "index.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "weather"
+  ],
+  "author": "deedee-code",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
